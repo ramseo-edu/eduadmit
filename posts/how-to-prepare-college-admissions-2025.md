@@ -1,26 +1,24 @@
 
 # How to Prepare for College Admissions in India 2025
 
-Preparing for college admissions is a multi-step process that starts well before application windows open. Follow this practical guide to stay ahead.
+Preparing early is the key to converting effort into the best possible seat. This guide covers calendars, documents, shortlisting and counselling strategy.
 
-## 1. Know the exam calendar
-Make a list of the entrance exams relevant to your course (JEE, NEET, KCET, state CETs, CAT). Note registration dates, exam dates, and counselling windows.
+## Create an exam calendar
+List the entrance tests relevant to your course — JEE, NEET, KCET, COMEDK, state CETs — and mark registration & exam dates.
 
-## 2. Prioritise study and mock tests
-Create a weekly plan that balances syllabus coverage and mock tests. Mock tests reveal weak topics — fix them early.
+## Prioritise mock tests
+Use weekly mocks to measure progress. Analyse weak topics and create a revision plan focused on those chapters.
 
-## 3. Organise documents
-Scan and save copies of 10th & 12th marksheets, transfer certificates, caste/domicile certificates, and identity proofs. Keep both scanned PDFs and printed copies.
+## Documents & digital copies
+Scan 10th/12th marksheets, transfer certificate, identity proof, caste/domicile certificates. Keep them in a single compressed PDF for uploads.
 
-## 4. Shortlist colleges realistically
-Match your expected rank with previous year cutoffs. Create a list with 'dream', 'target', and 'safe' colleges based on fees, placements, and ROI.
+## Shortlist with ROI
+Shortlist colleges under three buckets — dream, target, safe — based on fees, placements and distance. Use last year's closing ranks as a guide.
 
-## 5. Apply early and track deadlines
-Many private colleges open early applications. Use a spreadsheet to track application fees, submission dates, and document uploads.
+## Track applications
+Maintain a spreadsheet with application links, fees paid, and submission dates. Set calendar reminders for counselling rounds.
 
-## 6. Seek counselling when needed
-If you feel overwhelmed, book a short counselling session — many portals offer one-on-one advice that helps convert rank into the best available seat.
+## Use counselling wisely
+Attend mock allotments and keep alternatives ready. If unsure, opt for expert short counselling.
 
----
-
-<p class='small'>This article contains affiliate links and ad placeholders. We only recommend trusted services and books.</p>
+<p class='small'>Affiliate links & ad placeholders: we recommend only trusted services and books.</p>
