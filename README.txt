@@ -1,0 +1,1 @@
+EduAdmit CMS-ready site. Upload to a GitHub repo and connect to Netlify. After deploying, enable Netlify Identity -> Git Gateway to use /admin (Netlify CMS). Edit /assets/js/config.js to update siteUrl and contact email.
